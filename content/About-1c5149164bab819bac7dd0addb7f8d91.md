@@ -1,26 +1,26 @@
 ---
 title: "About"
-date: "2022-09-01T10:33:00.000Z"
-lastmod: "2024-12-20T16:27:00.000Z"
+date: "2025-03-29T10:40:00.000Z"
+lastmod: "2025-03-29T10:40:00.000Z"
 draft: false
 authors:
-  - "PCloud"
+  - "MetaIllusion"
 NOTION_METADATA:
   object: "page"
-  id: "45eb1211-58b9-4894-80ec-000fd25c812b"
-  created_time: "2022-09-01T10:33:00.000Z"
-  last_edited_time: "2024-12-20T16:27:00.000Z"
+  id: "1c514916-4bab-819b-ac7d-d0addb7f8d91"
+  created_time: "2025-03-29T10:40:00.000Z"
+  last_edited_time: "2025-03-29T10:40:00.000Z"
   created_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "60e1e968-5c43-4f3c-bf54-c53e19dd75a8"
   last_edited_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "60e1e968-5c43-4f3c-bf54-c53e19dd75a8"
   cover: null
   icon: null
   parent:
     type: "page_id"
-    page_id: "04bcc51c-fe4c-4993-8229-c35e4f0a6fb6"
+    page_id: "1c514916-4bab-806a-87b4-fa1a396b66f2"
   archived: false
   in_trash: false
   properties:
@@ -41,9 +41,9 @@ NOTION_METADATA:
             color: "default"
           plain_text: "About"
           href: null
-  url: "https://www.notion.so/About-45eb121158b9489480ec000fd25c812b"
-  public_url: "https://pcloud.notion.site/About-45eb121158b9489480ec000fd25c812b"
-  request_id: "4e8e9b11-e0c2-40ca-a464-50593d7eecf3"
+  url: "https://www.notion.so/About-1c5149164bab819bac7dd0addb7f8d91"
+  public_url: null
+  request_id: "cf99d33c-d960-4723-b52e-b20e034a3482"
 MANAGED_BY_NOTION_HUGO: true
 
 ---
@@ -163,7 +163,7 @@ Thanks to the authors of following resources included in the theme:
 - [Topbar](https://github.com/buunguyen/topbar)
 - [Remark42](https://remark42.com/)
 
-[Test Child Page](0e4a8fe1-2140-46ca-b1ef-3d658785f211)
+[Test Child Page](1c514916-4bab-819f-8ccd-eda90446c54f)
 
 
 	## How I am feeling today
